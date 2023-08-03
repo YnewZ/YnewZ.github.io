@@ -4,5 +4,6 @@
 我的导航网站：
 YNEWZ 导航站
 网址：
-ynewz.eu.org
-www.ynewz.eu.org
+1、 ynewz.eu.org
+
+2、 www.ynewz.eu.org
